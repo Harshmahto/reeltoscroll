@@ -47,15 +47,25 @@ const videos = [
   {
     id: 1,
     url: "https://www.w3schools.com/html/mov_bbb.mp4",
-    ...
+    creator: "@alexdev",
+    title: "Cool Beach Vibes",
+    description: "A short video of waves hitting the shore.",
+    thumbnail: "https://placehold.co/300x200/png"
   },
-  ...
+  {
+    id: 2,
+    url: "https://www.w3schools.com/html/movie.mp4",
+    creator: "@devgirl",
+    title: "Coding Session",
+    description: "Time-lapse of a night coding marathon.",
+    thumbnail: "https://placehold.co/300x200/png"
+  }
 ];
 ```
 ## 🛠️ Setup Instructions
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/reel-scroll.git
+git clone https://github.com/Harshmahto/reeltoscroll.git
 cd reel-scroll
 ```
 2. Install dependencies:
