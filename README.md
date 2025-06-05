@@ -66,7 +66,7 @@ const videos = [
 1. Clone the repo:
 ```bash
 git clone https://github.com/Harshmahto/reeltoscroll.git
-cd reel-scroll
+cd reeltoscroll
 ```
 2. Install dependencies:
 ```bash
